@@ -6,7 +6,7 @@ public class HelloWorld
 		System.out.println("Hello World");
 		int i =5;
 		float j=5.9f;
-		
+		System.out.println(j=i);
 		
 	}
 
